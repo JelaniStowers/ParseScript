@@ -1,5 +1,5 @@
 # ParseScript
-Read scripts as png files and create a wizard to aid in creation of a Director's Notebook
+Read scripts as pdf files and create a wizard to aid in creation of a Director's Notebook
 
 ParseScript is written in python and uses PDFMiner as a dependency.
 It works by reading the raw pdf file, converting the information to text, and then printing that text.
